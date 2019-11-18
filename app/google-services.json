@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "940106702008",
+    "firebase_url": "https://qrcode-161b1.firebaseio.com",
+    "project_id": "qrcode-161b1",
+    "storage_bucket": "qrcode-161b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940106702008:android:b5cc0a76f7114c0bd9a84d",
+        "android_client_info": {
+          "package_name": "com.example.qrcodesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940106702008-m6v234j7hqbjej1gsomgbmjds7hhh296.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHezKx-Bd1S8CZJyVqhvhmGy2gJh7EvO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940106702008-m6v234j7hqbjej1gsomgbmjds7hhh296.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
